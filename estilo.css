@@ -1,0 +1,31 @@
+fieldset {
+    border-width: 6px;
+    width: 210mm;
+    height: 290mm;
+}
+
+legend {
+    font-size: 28px;
+    font-family: 'Book Antiqua';    
+}
+
+div {
+    text-align: center;
+}
+
+table {
+    margin: 0 0 0 70mm;
+}
+
+td#nome {
+    font-size: 52px;
+} 
+
+img {
+    margin-left: 12px;
+}
+pre {
+    font-size: 18px;
+    margin: 0;
+    margin-left: 50px
+}
